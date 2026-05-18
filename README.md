@@ -1,5 +1,6 @@
 # 📊 Startup Financial Planning Model
 
+
 A comprehensive 36-month financial planning model built in Excel for early-stage startups. Models customer growth with churn, revenue projections, cost structure, unit economics, and cash flow — all driven from a single assumptions sheet.
 
 ---
