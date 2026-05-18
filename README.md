@@ -133,4 +133,5 @@ Cash Balance   = Prior Month Balance + Net Cash Flow
 ---
 
 ## 📄 License
+
 This project is open for personal and commercial use. Attribution appreciated but not required.
